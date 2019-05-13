@@ -1,0 +1,26 @@
+body{
+    background-image: url(../ilustraciones/fondo.jpg);
+    width: 99%;
+    height: 100%;
+    resize: both;
+    background-repeat: no-repeat;
+}
+div.titulo{
+    background: linear-gradient(to bottom,darkblue,black);
+    height: 5%;
+    border-radius: 12px;
+    color:white;
+    font-family:'Courier New', Courier, monospace; 
+    text-align: center;
+    font-size: 120%;
+}
+div.secundario{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    float: left; 
+    margin-right: 3%;
+    background: linear-gradient(to bottom,darkblue,black);
+    width: 8%;
+    text-align: center;
+    border-radius: 10px;
+}

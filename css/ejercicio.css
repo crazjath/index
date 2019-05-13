@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+    background-image: url(../trabajos/ilustraciones/thROK5EE55.jpg);
+    background-repeat: repeat;
+
+}
+
+h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    float: left; 
+    margin: 4.5%;
+    margin-top: 5%;
+    font-size: 200px;
+}

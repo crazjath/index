@@ -1,0 +1,39 @@
+body{
+   background-color: rgb(36, 13, 13);
+   background-image: url(../ilustraciones/descarga.jpg);
+   background-repeat: repeat;
+   background-size: right top;
+   width: 99%;
+   height: 100%;
+   font-style: oblique;
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div{
+    background-color:blue;
+}
+div.gustos{
+    background-color: rgba(65, 105, 225, 0.445);
+}
+h2{
+    color:gold;
+}
+h3,h4{
+    color: aqua;
+}
+ul,ol{
+    color:royalblue;
+}
+li{
+    color:black;
+}
+table{
+    color: purple;
+}
+p{
+    color:black; 
+}
+div.audio{
+    background-color: black;
+    border-radius: 5%;
+}
