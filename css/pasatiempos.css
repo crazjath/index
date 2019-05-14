@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+}
+
+div.comidas{
+    color: white;
+
+    font-family: 'Times New Roman', Times, serif;
+    float: left; 
+    margin-right: 3%;
+    background: linear-gradient(to bottom,darkblue,black);
+    text-align: center;
+    border-radius: 10px;
+}
+div.juegos{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    float: left; 
+    margin-right: 3%;
+    background: linear-gradient(to bottom,darkblue,black);
+    text-align: center;
+    border-radius: 10px;
+}
+td{
+    text-align: left;
+}
